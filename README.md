@@ -38,6 +38,3 @@ python game.py
 - `stickman.py`：火柴人繪製
 - `card.py`：卡牌系統
 
-## GitHub 上傳建議
-
-這個 repository 建議只放正式版原始碼與必要說明。`__pycache__/`、備份資料夾、期末報告影片等已加入 `.gitignore`，避免把暫存檔或大型檔案一起上傳。
